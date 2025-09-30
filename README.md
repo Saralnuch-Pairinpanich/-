@@ -73,7 +73,7 @@
 | Fuel lubricants                                  |   849,537.56 | 1,258,025.71 | 2,101,011.87 | 1,827,749.95 | 1,740,634.84 |
 | Consumer goods                                   |   819,988.91 | 1,005,784.69 | 1,143,526.13 | 1,154,308.72 | 1,249,709.62 |
 | Vehicles and transport accessories               |   364,427.52 |   462,839.37 |   433,076.66 |   553,230.27 |   421,170.69 |
-| Arms, munitions (official services & other goods)|    66,463.60 |    10,774.91 |   134,767.07 |   143,428.97 |   154,092.28 |
+| Arms munitions used in official services and other goods|    66,463.60 |    10,774.91 |   134,767.07 |   143,428.97 |   154,092.28 |
 
 </div>
 
