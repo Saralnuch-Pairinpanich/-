@@ -55,7 +55,8 @@
 
 <div align="center">
 ภาพที่ 2 : ภาพแสดงมูลค่าการนำเข้าของประเทศไทยระหว่างปี 2563 ถึง 2567 
-<img width="645" height="428" alt="image" src="https://github.com/user-attachments/assets/a1630716-7f9b-4ef3-b83e-bda3807646b3" />
+<img width="645" height="659" alt="image" src="https://github.com/user-attachments/assets/fd28df7c-3a68-4e30-87ea-08b2ec5c4521" />
+
 </div>
 
 ## การนำเข้า 
