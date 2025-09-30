@@ -107,10 +107,10 @@
 <img width="1045" height="567" alt="image" src="https://github.com/user-attachments/assets/6f203f5f-781a-4725-bc80-d9a7cf302799" />
 </div>
 
-เมื่อวิเคราะห์มูลค่าการนำเข้าวัตถุดิบและสินค้าขั้นกลาง พบว่า 6 จาก 25 ประเภทสินค้ามีสัดส่วนค่อนข้างมากอย่างมีนัยสำคัญ ได้แก่ อุปกรณ์ ส่วนประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ ( Electrical, electronic equipment and parts thereof) เคมีภัณฑ์ ( Chemicals )  สินแร่โลหะอื่น ๆ เศษโลหะและผลิตภัณฑ์ ( Other metal ores, metal waste scrap, and products) เหล็ก เหล็กกล้าและผลิตภัณฑ์ ( Iron, steel and products ) เครื่องเพชรพลอย อัญมณี เงินแท่งและทองคำ ( Jewellery including silver bars and gold ) และ พืชและผลิตภัณฑ์จากพืช ( Vegetables and vegetable products) ดังภาพที่ 5 
+เมื่อวิเคราะห์มูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป พบว่า 6 จาก 25 ประเภทสินค้ามีสัดส่วนค่อนข้างมากอย่างมีนัยสำคัญ ได้แก่ อุปกรณ์ ส่วนประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ ( Electrical, electronic equipment and parts thereof) เคมีภัณฑ์ ( Chemicals )  สินแร่โลหะอื่น ๆ เศษโลหะและผลิตภัณฑ์ ( Other metal ores, metal waste scrap, and products) เหล็ก เหล็กกล้าและผลิตภัณฑ์ ( Iron, steel and products ) เครื่องเพชรพลอย อัญมณี เงินแท่งและทองคำ ( Jewellery including silver bars and gold ) และ พืชและผลิตภัณฑ์จากพืช ( Vegetables and vegetable products) ดังภาพที่ 5 
 
 <div align="center">
-ภาพที่ 5 : ภาพแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าวัตถุดิบและสินค้าขั้นกลาง
+ภาพที่ 5 : ภาพแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป
 <img width="1289" height="654" alt="image" src="https://github.com/user-attachments/assets/c8c48f35-0e39-43aa-8add-b5a1484a0c26" />
 </div>
 
