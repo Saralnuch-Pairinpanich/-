@@ -104,14 +104,16 @@
 
 <div align="center">
 ภาพที่ 4 : ภาพแสดงสัดส่วนของมูลค่าสินค้านำเข้าประเภทต่าง ๆ กับมูลค่านำเข้าสินค้ารวมระหว่างปี 2563 ถึง 2567
-<img width="1045" height="567" alt="image" src="https://github.com/user-attachments/assets/6f203f5f-781a-4725-bc80-d9a7cf302799" />
+<img width="1045" height="567" alt="image" src="https://github.com/user-attachments/assets/e4366496-f842-4b1d-bd5d-eca95e1af5a2" />
+
 </div>
 
 เมื่อวิเคราะห์มูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป พบว่า 6 จาก 25 ประเภทสินค้ามีสัดส่วนค่อนข้างมากอย่างมีนัยสำคัญ ได้แก่ อุปกรณ์ ส่วนประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ ( Electrical, electronic equipment and parts thereof) เคมีภัณฑ์ ( Chemicals )  สินแร่โลหะอื่น ๆ เศษโลหะและผลิตภัณฑ์ ( Other metal ores, metal waste scrap, and products) เหล็ก เหล็กกล้าและผลิตภัณฑ์ ( Iron, steel and products ) เครื่องเพชรพลอย อัญมณี เงินแท่งและทองคำ ( Jewellery including silver bars and gold ) และ พืชและผลิตภัณฑ์จากพืช ( Vegetables and vegetable products) ดังภาพที่ 5 
 
 <div align="center">
 ภาพที่ 5 : ภาพแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป
-<img width="1289" height="654" alt="image" src="https://github.com/user-attachments/assets/c8c48f35-0e39-43aa-8add-b5a1484a0c26" />
+<img width="1289" height="654" alt="image" src="https://github.com/user-attachments/assets/f79c8322-8410-4ec7-bdcf-7827456da1df" />
+
 </div>
 
 ทั้งนี้มูลค่าการนำเข้าอุปกรณ์ ส่วนประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ (กราฟเส้นสีน้ำเงิน) ขยายตัวอย่างมีนัยสำคัญมากที่สุด  จาก 0.50 ล้านล้านบาทในปี 2563 เป็น 1.09 ล้านล้านบาท ในปี 2567 ดังตารางที่ 5  ทั้งนี้เมื่อวิเคราะห์รายสินค้าในอุปกรณ์ ส่วนประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ พบว่า **มูลค่าการนำเข้าแผงวงจรไฟฟ้า (Electronic integrated circuits) ขยายตัวและเป็นสัดส่วนค่อนข้างมากอย่างมีนัยสำคัญ โดยในปี 2567 มีมูลค่าการนำเข้า 0.86 ล้านล้านบาท จาก 1.09 ล้านล้านบาท** ดังตารางที่ 6 
