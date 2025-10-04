@@ -82,15 +82,8 @@
 <div align="center">
 
 ตารางที่ 4 : ตารางแสดงสัดส่วนมูลค่าสินค้ารายประเภทกับมูลค่าการนำเข้าทั้งหมดระหว่างปี 2563 ถึง 2567 (หน่วย: ร้อยละ)  
+<img width="930" height="344" alt="image" src="https://github.com/user-attachments/assets/08477b22-8f44-4b71-82d7-0ac04c70b3dd" />
 
-| Category                                         |  2563 |  2564 |  2565 |  2566 |  2567 |
-|--------------------------------------------------|------:|------:|------:|------:|------:|
-| Raw materials and intermediate products          | 40.55 | 43.49 | 41.80 | 39.37 | 41.79 |
-| Capital goods                                    | 27.02 | 24.45 | 22.13 | 24.09 | 25.35 |
-| Fuel lubricants                                  | 13.12 | 14.73 | 19.88 | 18.15 | 16.04 |
-| Consumer goods                                   | 12.66 | 11.78 | 10.82 | 11.47 | 11.52 |
-| Vehicles and transport accessories               |  5.63 |  5.42 |  4.10 |  5.50 |  3.88 |
-| Arms, munitions (official services & other goods)|  1.03 |  0.13 |  1.28 |  1.42 |  1.42 |
 
 </div>
 
