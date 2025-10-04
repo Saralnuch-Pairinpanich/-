@@ -100,7 +100,7 @@
 ตารางที่ 5 : ตารางแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป ระหว่าง 
 ปี 2563 ถึง 2567  (หน่วย: ล้านบาท)  
 
-<img width="1152" height="352" alt="image" src="https://github.com/user-attachments/assets/df16e0c0-7d4a-4302-86c6-2e5fce36f41d" />
+<img width="1176" height="352" alt="image" src="https://github.com/user-attachments/assets/228e8516-6e3f-4305-829d-1feae9af64b9" />
 
 </div>
 
