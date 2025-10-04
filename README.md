@@ -36,8 +36,7 @@
 
 ตารางที่ 2 : มูลค่าการส่งออก การนำเข้า และดุลการค้าของประเทศไทย ระหว่างปี 2563 ถึง 2567  (หน่วย : ล้านบาท)  
 
-<img width="1326" height="300" alt="image" src="https://github.com/user-attachments/assets/05452c13-4fb9-4187-953f-f8023772cb26" />
-
+<img width="1328" height="312" alt="image" src="https://github.com/user-attachments/assets/7abfeead-87e9-4384-a9fd-72ec87cc1b7f" />
 
 </div>
 
