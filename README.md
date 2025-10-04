@@ -103,7 +103,7 @@
 <img width="930" height="270" alt="image" src="https://github.com/user-attachments/assets/228e8516-6e3f-4305-829d-1feae9af64b9" />
 
 </div>
-## 
+\n
 <div align="center">
 
 ตารางที่ 6 ตารางแสดงมูลค่าการนำเข้าของสินค้าในหมวดอุปกรณ์ ส่วนประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์  (หน่วย: ล้านบาท)  
