@@ -100,7 +100,7 @@
 ตารางที่ 5 : ตารางแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป ระหว่าง 
 ปี 2563 ถึง 2567  (หน่วย: ล้านบาท)  
 
-<img width="1176" height="352" alt="image" src="https://github.com/user-attachments/assets/228e8516-6e3f-4305-829d-1feae9af64b9" />
+<img width="850" height="300" alt="image" src="https://github.com/user-attachments/assets/228e8516-6e3f-4305-829d-1feae9af64b9" />
 
 </div>
 
@@ -135,7 +135,7 @@
 <div align="center">
 ตารางที่ 8 ตารางแสดงมูลค่าการนำเข้าของสินค้าในหมวดหมู่เครื่องจักรกลและส่วนประกอบ  (หน่วย: ล้านบาท)  
   
-<img width="950" height="220" alt="image" src="https://github.com/user-attachments/assets/1faf9010-48f1-475a-a766-aa465c3a46ed" />
+<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/1faf9010-48f1-475a-a766-aa465c3a46ed" />
 
 </div>
 
