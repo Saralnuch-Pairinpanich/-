@@ -89,7 +89,7 @@
 
 <div align="center">
 ภาพที่ 5 : ภาพแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป
-<img width="1289" height="654" alt="image" src="https://github.com/user-attachments/assets/579e5640-d028-4b4a-b4ba-e321f8c0c9c1" />
+<img width="1289" height="654" alt="image" src="https://github.com/user-attachments/assets/8e93ba0b-37a3-49fd-ae01-d6db784224ad" />
 
 </div>
 
