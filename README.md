@@ -26,7 +26,8 @@
 
 <div align="center">
 ภาพที่ 1 : ภาพแสดงดุลการค้าของของประเทศไทยระหว่างปี 2563 ถึง 2567 
-<img width="638" height="373" alt="image" src="https://github.com/user-attachments/assets/b2822479-bd4f-4242-b5e1-8f77bbe2c3e2" />
+<img width="803" height="592" alt="image" src="https://github.com/user-attachments/assets/859e55d4-6e1c-4c22-83c3-54a5d2048cee" />
+
 
 </div>
 
