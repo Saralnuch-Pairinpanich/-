@@ -135,7 +135,7 @@
 <div align="center">
 ตารางที่ 8 ตารางแสดงมูลค่าการนำเข้าของสินค้าในหมวดหมู่เครื่องจักรกลและส่วนประกอบ  (หน่วย: ล้านบาท)  
   
-<img width="1016" height="244" alt="image" src="https://github.com/user-attachments/assets/1faf9010-48f1-475a-a766-aa465c3a46ed" />
+<img width="950" height="220" alt="image" src="https://github.com/user-attachments/assets/1faf9010-48f1-475a-a766-aa465c3a46ed" />
 
 </div>
 
