@@ -16,7 +16,9 @@
 
 ตารางที่ 1 : มูลค่า GDP และอัตราการเปลี่ยนแปลงของ GDP ระหว่างปี 2563 ถึง 2567  (หน่วย : ล้านบาท)  
 
-<img width="803" height="536" alt="image" src="https://github.com/user-attachments/assets/dcaa9160-51d8-4ee6-9f93-aa4c3a99167f" />
+<img width="241" height="175" alt="Screenshot 2568-10-04 at 20 47 00" src="https://github.com/user-attachments/assets/c8487218-d979-42e1-a584-f57bf6584e21" />
+
+
 
 </div>
 
@@ -25,8 +27,7 @@
 
 <div align="center">
 ภาพที่ 1 : ภาพแสดงดุลการค้าของของประเทศไทยระหว่างปี 2563 ถึง 2567 
-<img width="803" height="592" alt="image" src="https://github.com/user-attachments/assets/859e55d4-6e1c-4c22-83c3-54a5d2048cee" />
-
+<img width="803" height="536" alt="image" src="https://github.com/user-attachments/assets/dcaa9160-51d8-4ee6-9f93-aa4c3a99167f" />
 
 </div>
 
