@@ -74,7 +74,7 @@
 <div align="center">
 
 ตารางที่ 4 : ตารางแสดงสัดส่วนมูลค่าสินค้ารายประเภทกับมูลค่าการนำเข้าทั้งหมดระหว่างปี 2563 ถึง 2567 (หน่วย: ร้อยละ)  
-<img width="900" height="344" alt="image" src="https://github.com/user-attachments/assets/08477b22-8f44-4b71-82d7-0ac04c70b3dd" />
+<img width="800" height="344" alt="image" src="https://github.com/user-attachments/assets/08477b22-8f44-4b71-82d7-0ac04c70b3dd" />
 
 
 </div>
