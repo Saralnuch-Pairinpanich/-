@@ -124,7 +124,7 @@
 <div align="center">
 ตารางที่ 7 ตารางแสดงมูลค่าการนำเข้าสินค้า 5 อันดับแรกในสินค้าประเภทสินค้าทุนระหว่างปี 2563 ถึง 2567 (หน่วย: ล้านบาท)  
 
-<img width="1178" height="306" alt="image" src="https://github.com/user-attachments/assets/0bf4b906-1f1b-4787-9e67-eb27a04dd156" />
+<img width="1174" height="292" alt="image" src="https://github.com/user-attachments/assets/7a41e6c0-539f-48de-b39a-f5030eafbf7e" />
 
 </div>
 
