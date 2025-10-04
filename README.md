@@ -60,7 +60,7 @@
 <div align="center">
 
 ตารางที่ 3 : ตารางแสดงมูลค่าการนำเข้าของไทย จำแนกตามประเภทสินค้า (หน่วย : ล้านบาท)  
-<img width="750" height="360" alt="image" src="https://github.com/user-attachments/assets/973675ab-c1a1-41fd-8466-e5fce85edb4c" />
+<img width="1328" height="360" alt="image" src="https://github.com/user-attachments/assets/973675ab-c1a1-41fd-8466-e5fce85edb4c" />
 
 </div>
 
@@ -74,7 +74,7 @@
 <div align="center">
 
 ตารางที่ 4 : ตารางแสดงสัดส่วนมูลค่าสินค้ารายประเภทกับมูลค่าการนำเข้าทั้งหมดระหว่างปี 2563 ถึง 2567 (หน่วย: ร้อยละ)  
-<img width="1328" height="344" alt="image" src="https://github.com/user-attachments/assets/08477b22-8f44-4b71-82d7-0ac04c70b3dd" />
+<img width="1000" height="344" alt="image" src="https://github.com/user-attachments/assets/08477b22-8f44-4b71-82d7-0ac04c70b3dd" />
 
 
 </div>
