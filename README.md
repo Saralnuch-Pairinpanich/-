@@ -16,7 +16,7 @@
 
 ตารางที่ 1 : มูลค่า GDP และอัตราการเปลี่ยนแปลงของ GDP ระหว่างปี 2563 ถึง 2567  (หน่วย : ล้านบาท)  
 
-<img width="250" height="200" alt="Screenshot 2568-10-04 at 20 47 00" src="https://github.com/user-attachments/assets/c8487218-d979-42e1-a584-f57bf6584e21" />
+<img width="300" height="260" alt="Screenshot 2568-10-04 at 20 47 00" src="https://github.com/user-attachments/assets/c8487218-d979-42e1-a584-f57bf6584e21" />
 
 
 
