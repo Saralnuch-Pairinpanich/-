@@ -117,7 +117,7 @@
 
 <div align="center">
 ภาพที่ 6 : ภาพแสดงมูลค่าการส่งออกสินค้า 5 อันดับแรกในสินค้าประเภทสินค้าทุนระหว่างปี 2563 ถึง 2567 
-<img width="937" height="562" alt="image" src="https://github.com/user-attachments/assets/75a279b6-7689-4562-b2d3-43bf3851908f" />
+<img width="937" height="562" alt="image" src="https://github.com/user-attachments/assets/2b0f587a-ac84-4319-9ace-c248c7f758c9" />
 
 </div>
 
