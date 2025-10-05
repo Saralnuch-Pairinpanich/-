@@ -56,7 +56,7 @@
 
 <img width="1284" height="346" alt="image" src="https://github.com/user-attachments/assets/d8cb146c-a8e9-47e9-9b55-a364eb40709f"/>
 หมายเหตุ : highlight จากข้อมูลในแต่ละปี โดยสีเข้มหมายถึงมีค่ามากที่สุดในปีนั้น ๆ และสีอ่อนหมายถึงมีค่าน้อยรองลงมา
-</div/>
+</div>
 
 <div align="center">
   
