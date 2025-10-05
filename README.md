@@ -89,9 +89,8 @@
 เมื่อวิเคราะห์มูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป พบว่า 6 จาก 25 ประเภทสินค้ามีสัดส่วนค่อนข้างมากอย่างมีนัยสำคัญ ได้แก่ อุปกรณ์ ส่วนประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ ( Electrical, electronic equipment and parts thereof) เคมีภัณฑ์ ( Chemicals )  สินแร่โลหะอื่น ๆ เศษโลหะและผลิตภัณฑ์ ( Other metal ores, metal waste scrap, and products) เหล็ก เหล็กกล้าและผลิตภัณฑ์ ( Iron, steel and products ) เครื่องเพชรพลอย อัญมณี เงินแท่งและทองคำ ( Jewellery including silver bars and gold ) และ พืชและผลิตภัณฑ์จากพืช ( Vegetables and vegetable products) ดังภาพที่ 5 
 
 <div align="center">
-ภาพที่ 5 : ภาพแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูป
-<img width="1289" height="654" alt="image" src="https://github.com/user-attachments/assets/0944c978-ecea-4ee5-b810-054c3f7f703c" />
-
+ภาพที่ 5 : ภาพแสดงมูลค่าการนำเข้าสูงสุดอย่างมีนัยสำคัญของมูลค่าการนำเข้าสินค้าวัตถุดิบและกึ่งสำเร็จรูประหว่างปี 2563 ถึง 2567
+<img width="1289" height="654" alt="image" src="https://github.com/user-attachments/assets/2cfa8156-16e3-40ef-99fe-3118c4a24591" />
 
 </div>
 
