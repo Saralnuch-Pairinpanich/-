@@ -60,7 +60,8 @@
 <div align="center">
 
 ตารางที่ 3 : ตารางแสดงมูลค่าการนำเข้าของไทย จำแนกตามประเภทสินค้า (หน่วย : ล้านบาท)  
-<img width="1328" height="360" alt="image" src="https://github.com/user-attachments/assets/973675ab-c1a1-41fd-8466-e5fce85edb4c" />
+<img width="1274" height="340" alt="image" src="https://github.com/user-attachments/assets/3526dd0f-6264-4ff8-9129-aa9866c1b545" />
+
 
 </div>
 
